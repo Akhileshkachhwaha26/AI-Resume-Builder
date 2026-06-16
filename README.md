@@ -1,5 +1,6 @@
 🚀 AI Resume & Portfolio Builder
 Edunet Foundation — 6-Week Internship Project
+
 A web application that instantly generates tailored resumes, cover letters, and portfolio pages — no API key required, works completely offline in the browser!
 ---
 ✨ Features
